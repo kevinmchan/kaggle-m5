@@ -15,5 +15,6 @@ dependencies:
     - catboost==0.23
     - kaggle==1.5.6
     - pandas-profiling==2.7.1
+    - pyarrow==0.17.0
     - pygam==0.8.0
     - statsmodels==0.11.1
